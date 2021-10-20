@@ -5,7 +5,9 @@
 Improve COVID-19 Outbreak Forecasting using Machine Learning Algorithms
 
 
-Meaad Muhammad Alrehaili 
+Auther Meaad Alrehaili 
+
+
 Contact me by meaad.alrehaili@gmail.com if you have any questions regarding to this project.
 
 
