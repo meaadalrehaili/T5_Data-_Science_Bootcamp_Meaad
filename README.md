@@ -29,9 +29,15 @@ The COVID-19 dataset that will be used in this project and it obtinaed from John
 
 Tools:
 
-Jupyter notebook, Python 3 with some libraries (math, NumPy, pandas, sklearn, matplotlib). Ensemble technique to combine Gradient Boosting Regressor with random Forest Regressor.
+•	Jupyter notebook with Python 3
+•	Numpy and Pandas for data manipulation
+•	Scikit-learn for modeling
+•	Matplotlib and for plotting
 
 
 MVP Goal:
 
 Three numbers predicted (the numbers of confirmed cases, recovered cases, and deaths) for a period of 10 days.
+
+
+The code in final code in the  Final Project Deliverable to run it you have to download Jupyter notebook.
